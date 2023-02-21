@@ -38,74 +38,95 @@ Disciplina do curso de Ciências da Computação da Faculdade Estácio Teresina.
 
 ## **Datas**
 
-Fevereiro
+Turmas
+
+![](https://img.shields.io/badge/Quinta-1001-lightgrey)
+
+<br />
+
+**Fevereiro**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
 |  |  | 01 | 02 | 03 |
 | 06 | 07 | 08 | 09 | 10 |
 | 13 | 14 | 15 | 16 | 17 |
-| 20 | 21 | 22 | <span style="color:limegreen">23</span> | 24 |
+| ![20Fev](https://placehold.co/25/cornflowerblue/white?text=20) | ![21Fev](https://placehold.co/25/cornflowerblue/white?text=21) | ![22Fev](https://placehold.co/25/cornflowerblue/white?text=22) | ![23Fev](https://placehold.co/25/limegreen/white?text=23) | 24 |
 
-Março
+<br />
 
-| Seg | Ter | Qua | Qui | Sex |
-|---|---|---|---|---|
-| | | 01 | <span style="color:limegreen">02</span> | 03 |
-| 06 | 07 | 08 | <span style="color:limegreen">09</span> | 10 |
-| 13 | 14 | 15 | <span style="color:limegreen">16</span> | 17 |
-| 20 | 21 | 22 | <span style="color:limegreen">23</span> | 24 |
-| 27 | 28 | 29 | <span style="color:limegreen">30</span> | 31 |
-
-Abril
-| Seg | Ter | Qua | Qui | Sex |
-|---|---|---|---|---|
-| 03 | 04 | 05 | <span style="color:limegreen">06</span> | <span style="color:cornflowerblue">07</span> |
-| 10 | 11 | 12 | <span style="color:limegreen">13</span> | 14 |
-| 17 | 18 | 19 | <span style="color:limegreen">20</span> | <span style="color:cornflowerblue">21</span> |
-| 24 | 25 | 26 | <span style="color:red">27</span> | 28 |
-
-Maio
+**Março**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| 01 | <span style="color:orange">02</span> | 03 | <span style="color:limegreen">04</span> | 05 |
-| 08 | 09 | 10 | <span style="color:limegreen">11</span> | 12 |
-| 15 | 16 | 17 | <span style="color:limegreen">18</span> | 19 |
-| 22 | 23 | 24 | <span style="color:limegreen">25</span> | 26 |
+|    |    | 01 | ![02Mar](https://placehold.co/25/limegreen/white?text=02) | 03 |
+| 06 | 07 | 08 | ![09Mar](https://placehold.co/25/limegreen/white?text=09) | 10 |
+| 13 | 14 | 15 | ![16Mar](https://placehold.co/25/limegreen/white?text=16) | 17 |
+| 20 | 21 | 22 | ![23Mar](https://placehold.co/25/limegreen/white?text=23) | 24 |
+| 27 | 28 | 29 | ![30Mar](https://placehold.co/25/limegreen/white?text=30) | 31 |
+
+<br />
+
+**Abril**
+
+| Seg | Ter | Qua | Qui | Sex |
+|---|---|---|---|---|
+| 03 | 04 | 05 | ![06Abr](https://placehold.co/25/limegreen/white?text=06) | ![07Abr](https://placehold.co/25/cornflowerblue/white?text=07) |
+| 10 | 11 | 12 | ![13Abr](https://placehold.co/25/limegreen/white?text=13) | 14 |
+| 17 | 18 | 19 | ![20Abr](https://placehold.co/25/limegreen/white?text=20) | ![21Abr](https://placehold.co/25/cornflowerblue/white?text=21) |
+| 24 | 25 | 26 | ![27Abr](https://placehold.co/25/red/white?text=27) | 28 |
+
+<br />
+
+**Maio**
+
+| Seg | Ter | Qua | Qui | Sex |
+|---|---|---|---|---|
+| 01 | 02 | 03 | ![04Mai](https://placehold.co/25/limegreen/white?text=04) | 05 |
+| 08 | 09 | 10 | ![11Mai](https://placehold.co/25/limegreen/white?text=11) | 12 |
+| 15 | 16 | 17 | ![18Mai](https://placehold.co/25/limegreen/white?text=18) | 19 |
+| 22 | 23 | 24 | ![25Mai](https://placehold.co/25/limegreen/white?text=25) | 26 |
 | 29 | 30 | 31 | | |
 
-Junho
+<br />
+
+**Junho**
 
 | Seg | Ter | Qua | Qui | Sex |
 |---|---|---|---|---|
-| | | | <span style="color:red">01</span> | 02 |
-| 05 | 06 | 07 | <span style="color:cornflowerblue">08</span> | 09 |
-| 12 | 13 | 14 | <span style="color:limegreen">15</span> | 16 |
-| 19 | 20 | 21 | <span style="color:red">22</span> | 23 |
-| 26 | 27 | 28 | <span style="color:limegreen">29</span> | 30 |
+| | | | ![01Jun](https://placehold.co/25/red/white?text=01) | 02 |
+| 05 | 06 | 07 | ![08Jun](https://placehold.co/25/cornflowerblue/white?text=08) | ![09Jun](https://placehold.co/25/cornflowerblue/white?text=09) |
+| 12 | 13 | 14 | ![15Jun](https://placehold.co/25/limegreen/white?text=15) | 16 |
+| 19 | 20 | 21 | ![22Jun](https://placehold.co/25/red/white?text=22) | 23 |
+| 26 | 27 | 28 | 29 | 30 |
 
 
 *Legendas*
 
-<span style="color:limegreen">Aula</span>
-<span style="color:red">Prova</span>
-<span style="color:cornflowerblue">Feriado</span>
+![Aula](https://img.shields.io/badge/-Aula-limegreen?style=for-the-badge)
+![Feriado](https://img.shields.io/badge/-Feriado-cornflowerblue?style=for-the-badge)
+![Prova](https://img.shields.io/badge/-Prova-red?style=for-the-badge)
 
 -----
 
 ## **Avaliação**
 
-* *Média* = (duas maiores notas)/2
-  * Nenhuma das duas maiores notas pode estar abaixo de 4
-  * Valor mínimo para passar = 6
-* *Nota 1* (N1) = Trabalho + <span style="color:red">AV1</span>
-  * Entre 0 e 10
-* *Nota 2* (N2) = Trabalho + <span style="color:red">AV2</span>
-  * Entre 0 e 10
-* *Nota 3* (N3) = <span style="color:red">AV3</span>
-  * Entre 0 e 10
-  * Só precisa fazer essa prova quem não tiver nota suficiente para passar, ou quem quiser melhorar sua nota.
+* *Média* = (N1 + N2)/2
+  * Valor mínimo = 6,0.
+  * N1 
+    * Trabalho + prova.
+    * Nota mínima: 4,0.
+  * N2 
+    * Trabalho + prova.
+    * Nota mínima: 4,0.
+  * N3
+    * Prova.
+    * Nota mínima: 4,0.
+    * O aluno deve fazer se
+      * Faltou qualquer uma das provas, ou
+      * N1 ou N2 com valor abaixo de 4,0, ou
+      * Média abaixo de 6,0, ou
+      * Quiser aumentar sua nota.
 * Frequência mínima = 75%
   * Lembre que falta também reprova!
 
@@ -113,29 +134,31 @@ Junho
 
 ## **Bibliografia**
 
-*Básica*
+**Básica**
 
-Deitel, Paul J.; Deitel, Harvey M. **Java: Como programar [BV:PE]**. 8a Ed.. São Paulo: Pearson, 2010.1.
+Deitel, Paul J.; Deitel, Harvey M. **Java: Como programar [BV:PE]**. 8a Ed.. São Paulo: Pearson, 2010.1. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/39590/pdf
 
-FURGERI, Sérgio. **Java 8 ­ Ensino Didático ­ Desenvolvimento e Implementação de Aplicações [BV:MB]**. 1a Ed.. São Paulo: Érica, 2015. 1.
+FURGERI, Sérgio. **Java 8 ­ Ensino Didático ­ Desenvolvimento e Implementação de Aplicações**. 1a Ed.. São Paulo: Érica, 2015. 1. <br>
 Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9788536519340/
 
-SANTOS, Fabiano Gonçalves dos. **Programação Orientada a Objetos [BV:RE]**. 1. ed. Rio de Janeiro:SESES, 2017. 1.
+SANTOS, Fabiano Gonçalves dos. **Programação Orientada a Objetos**. 1. ed. Rio de Janeiro:SESES, 2017. 1. <br>
 Disponível em: http://api.repositorio.savaestacio.com.br/api/objetos/efetuaDownload/9c8fb265­f2ec­4629­8761­5ea5ec3ceb04
 
-*Complementar*
+<br />
 
-Barnes, David J.; Kölling, Michael. **Programação Orientada a Objetos com Java ­ Uma Introdução Prática Usando o BlueJ [BV:PE]**. 4a Ed.. São Paulo: Pearson, 2009. 1.
+**Complementar**
+
+Barnes, David J.; Kölling, Michael. **Programação Orientada a Objetos com Java ­ Uma Introdução Prática Usando o BlueJ**. 4a Ed.. São Paulo: Pearson, 2009. 1. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/434/pdf
 
-FELIX, Rafael (Organizador). **Programação Orientada a Objetos [BV:PE]**. 1. ed. São Paulo: Pearson, 2017. 1.
+FELIX, Rafael (Organizador). **Programação Orientada a Objetos**. 1. ed. São Paulo: Pearson, 2017. 1. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/128217/pdf
 
-Horstmann, Cay S.; Cornell, Gary. **Core Java ­ Vol. 1 ­ Fundamentos [BV:PE]**. 8a Ed.. São Paulo: Pearson, 2009. 1.
+Horstmann, Cay S.; Cornell, Gary. **Core Java ­ Vol. 1 ­ Fundamentos**. 8a Ed.. São Paulo: Pearson, 2009. 1. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/1238/pdf
 
-Kalinovsky, Alex. **Java Secreto: Técnicas de descompilação, patching e engenharia reversa [BV:PE]**. 1a Ed.. São Paulo: Pearson, 2013. 1.
+Kalinovsky, Alex. **Java Secreto: Técnicas de descompilação, patching e engenharia reversa**. 1a Ed.. São Paulo: Pearson, 2013. 1. <br>
 Disponível em: https://plataforma.bvirtual.com.br/Leitor/Loader/839/pdf
 
 Santos, Fabiano dos. **LINGUAGEM DE PROGRAMAÇÃO [BV:RE]**. 1a Ed.. Rio de Janeiro: SESES, 2015. 1.
