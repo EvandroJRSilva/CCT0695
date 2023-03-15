@@ -16,6 +16,8 @@ public class Generico
         printArray(doubleArray);
         System.out.println("Array de caracteres:");
         printArray(characterArray);
+        System.out.println("Todos eles ao mesmo tempo:");
+        printArray(integerArray, doubleArray, characterArray);
     }
 
     // Método printArray GENÉRICO
@@ -23,5 +25,15 @@ public class Generico
     {
         for(T generico : input)
             System.out.println(generico);
+    }
+
+    public static <T,E,I> void printArray(T[] input, E[] input2, I[] input3)
+    {
+        for(T generico : input)
+            System.out.println(generico);
+        for (E generico2: input2)
+            System.out.println(generico2);
+        for(I generico3: input3)
+            System.out.println(generico3);
     }
 }
