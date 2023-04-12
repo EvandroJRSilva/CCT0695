@@ -8,6 +8,9 @@ public class AcessaAluno
 {
     public static void main(String[] args)
     {
+        /* Exemplo adaptado de
+        https://www.tutorialspoint.com/design_pattern/data_access_object_pattern.htm */
+        
         AlunoDAO alunoDAO = new AlunoDAOImpl();
 
         for (Aluno aluno : alunoDAO.getAllAlunos())
