@@ -1,4 +1,4 @@
-package aula06;
+package aula06.daoimpl;
 
 import aula06.dao.LivroDAO;
 import aula06.model.Livro;
