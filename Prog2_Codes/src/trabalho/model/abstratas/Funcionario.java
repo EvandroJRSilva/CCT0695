@@ -1,4 +1,4 @@
-package trabalho01.model.abstratas;
+package trabalho.model.abstratas;
 
 import java.util.Date;
 
@@ -6,6 +6,10 @@ public abstract class Funcionario extends PessoaFisica{
     protected String id;
     protected Date dataAdmissao;
     protected String carteiraTrabalho;
+
+    //------------------------------------------------------------------------------------------------------------------
+    // Constructors ----------------------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------------------------------------
 
     public Funcionario(String cpf, String nome, String id){
         super(cpf, nome);
@@ -34,6 +38,9 @@ public abstract class Funcionario extends PessoaFisica{
         this.dataAdmissao = dataAdmissao;
     }
 
+    //------------------------------------------------------------------------------------------------------------------
+    // Getters & Setters -----------------------------------------------------------------------------------------------
+    //------------------------------------------------------------------------------------------------------------------
     public String getId() {
         return id;
     }
