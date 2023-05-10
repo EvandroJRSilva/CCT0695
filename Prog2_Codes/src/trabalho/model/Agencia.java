@@ -1,10 +1,14 @@
 package trabalho.model;
 
+import trabalho.model.abstratas.Conta;
+
+import java.util.ArrayList;
+
 public class Agencia {
     private Banco banco;
     private String code;
     private String nome;
-    // TODO: lista de contas
+    private ArrayList<Conta> contas;
 
     //------------------------------------------------------------------------------------------------------------------
     // Constructors ----------------------------------------------------------------------------------------------------
@@ -49,7 +53,23 @@ public class Agencia {
         this.nome = nome;
     }
 
+    public ArrayList<Conta> getContas() {
+        return contas;
+    }
+
+    public void setContas(ArrayList<Conta> contas) {
+        this.contas = contas;
+    }
+
     //------------------------------------------------------------------------------------------------------------------
     // Methods ---------------------------------------------------------------------------------------------------------
     //------------------------------------------------------------------------------------------------------------------
+
+    public void addConta(Conta conta){
+        contas.add(conta);
+    }
+
+    public void removeConta(Conta conta){
+        contas.remove(conta);
+    }
 }

@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class Curso {
     private String nome;
     private String code;
-    // TODO: lista de Disciplina
+    private Coordenador coordenador;
     private ArrayList<Disciplina> disciplinas;
 
     //------------------------------------------------------------------------------------------------------------------
@@ -15,6 +15,12 @@ public class Curso {
     public Curso(String nome, String code){
         this.nome = nome;
         this.code = code;
+    }
+
+    public Curso(String nome, String code, Coordenador coordenador){
+        this.nome = nome;
+        this.code = code;
+        this.coordenador = coordenador;
     }
 
     //------------------------------------------------------------------------------------------------------------------
@@ -35,6 +41,14 @@ public class Curso {
 
     public void setCode(String code) {
         this.code = code;
+    }
+
+    public Coordenador getCoordenador() {
+        return coordenador;
+    }
+
+    public void setCoordenador(Coordenador coordenador) {
+        this.coordenador = coordenador;
     }
 
     public ArrayList<Disciplina> getDisciplinas() {

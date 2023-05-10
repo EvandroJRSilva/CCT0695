@@ -6,6 +6,7 @@ import java.util.ArrayList;
 
 public class Faculdade extends PessoaJuridica {
     private ArrayList<Curso> cursos;
+    private Diretor diretor;
 
     //------------------------------------------------------------------------------------------------------------------
     // Constructors ----------------------------------------------------------------------------------------------------
@@ -14,6 +15,11 @@ public class Faculdade extends PessoaJuridica {
     // cnpj, nome, nomeFantasia
     public Faculdade(String cnpj, String nome, String nomeFantasia){
         super(cnpj, nome, nomeFantasia);
+    }
+
+    public Faculdade(String cnpj, String nome, String nomeFantasia, Diretor diretor){
+        super(cnpj, nome, nomeFantasia);
+        this.diretor = diretor;
     }
 
     //------------------------------------------------------------------------------------------------------------------
@@ -34,6 +40,14 @@ public class Faculdade extends PessoaJuridica {
 
     public void setCursos(ArrayList<Curso> cursos) {
         this.cursos = cursos;
+    }
+
+    public Diretor getDiretor() {
+        return diretor;
+    }
+
+    public void setDiretor(Diretor diretor) {
+        this.diretor = diretor;
     }
 
     //------------------------------------------------------------------------------------------------------------------
